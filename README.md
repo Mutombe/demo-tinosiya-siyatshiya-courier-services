@@ -1,1 +1,0 @@
-# demo-tinosiya-siyatshiya-courier-services
