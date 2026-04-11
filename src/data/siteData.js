@@ -56,8 +56,8 @@ const siteData = {
     ctaSecondary: "Our Services",
     trustBadge: "10000+ Parcels Delivered",
     backgroundImages: [
-      { url: "https://images.unsplash.com/photo-1570480548578-3d49ca005e67?w=1920&q=85", alt: "Professional workspace and equipment" },
-      { url: "https://images.unsplash.com/photo-1494412574643-ff11b0a5eb95?w=1920&q=85", alt: "Team delivering quality service" },
+      { url: "https://images.unsplash.com/photo-1519003722824-194d4455a60c?auto=format&fit=crop&w=1920&q=80", alt: "Professional workspace and equipment" },
+      { url: "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=1920&q=80", alt: "Team delivering quality service" },
       { url: "https://images.unsplash.com/photo-1519003722824-194d4455a60c?w=1920&q=85", alt: "Modern facilities and operations" },
     ],
   },
@@ -82,11 +82,11 @@ const siteData = {
     heroTitle: "Our Services",
     heroSubtitle: "Comprehensive solutions tailored to your needs. Quality and reliability in everything we do.",
     items: [
-      { title: "Same-Day Delivery", slug: "same-day-delivery", desc: "Lightning-fast intra-city delivery with real-time tracking. Your package reaches its destination before the day ends -- guaranteed.", features: ["Real-Time GPS Tracking", "Proof of Delivery", "Priority Routing", "Insurance Coverage", "SMS Notifications", "Dedicated Rider"], image: "https://images.unsplash.com/photo-1570480548578-3d49ca005e67?w=800&q=80" },
-      { title: "Nationwide Freight", slug: "nationwide-freight", desc: "Reliable long-haul transport connecting Harare to every corner of Zimbabwe. Full truckload or LTL -- we handle it all.", features: ["Full Truckload", "Less-Than-Truckload", "Cross-Docking", "Route Optimisation", "Cargo Insurance", "Scheduled Pickups"], image: "https://images.unsplash.com/photo-1494412574643-ff11b0a5eb95?w=800&q=80" },
+      { title: "Same-Day Delivery", slug: "same-day-delivery", desc: "Lightning-fast intra-city delivery with real-time tracking. Your package reaches its destination before the day ends -- guaranteed.", features: ["Real-Time GPS Tracking", "Proof of Delivery", "Priority Routing", "Insurance Coverage", "SMS Notifications", "Dedicated Rider"], image: "https://images.unsplash.com/photo-1519003722824-194d4455a60c?auto=format&fit=crop&w=1920&q=80" },
+      { title: "Nationwide Freight", slug: "nationwide-freight", desc: "Reliable long-haul transport connecting Harare to every corner of Zimbabwe. Full truckload or LTL -- we handle it all.", features: ["Full Truckload", "Less-Than-Truckload", "Cross-Docking", "Route Optimisation", "Cargo Insurance", "Scheduled Pickups"], image: "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=1920&q=80" },
       { title: "Last-Mile Delivery", slug: "last-mile-delivery", desc: "The final stretch matters most. We ensure every parcel reaches the doorstep safely, on time, and with a smile.", features: ["Doorstep Delivery", "Photo Confirmation", "Flexible Time Slots", "Contactless Options", "Return Handling", "Customer Notifications"], image: "https://images.unsplash.com/photo-1519003722824-194d4455a60c?w=800&q=80" },
-      { title: "Express Parcels", slug: "express-parcels", desc: "When hours matter, not days. Our express parcel service provides the fastest intercity delivery in Zimbabwe.", features: ["2-Hour City Express", "Next-Day Intercity", "Fragile Item Handling", "Cold Chain Available", "Weekend Delivery", "Live Tracking"], image: "https://images.unsplash.com/photo-1570480548578-3d49ca005e67?w=800&q=80" },
-      { title: "Corporate Logistics", slug: "corporate-logistics", desc: "Tailored logistics solutions for businesses. Dedicated account management, volume discounts, and seamless API integration.", features: ["Dedicated Account Manager", "Volume Pricing", "API Integration", "Monthly Reporting", "SLA Guarantees", "Custom Packaging"], image: "https://images.unsplash.com/photo-1494412574643-ff11b0a5eb95?w=800&q=80" },
+      { title: "Express Parcels", slug: "express-parcels", desc: "When hours matter, not days. Our express parcel service provides the fastest intercity delivery in Zimbabwe.", features: ["2-Hour City Express", "Next-Day Intercity", "Fragile Item Handling", "Cold Chain Available", "Weekend Delivery", "Live Tracking"], image: "https://images.unsplash.com/photo-1519003722824-194d4455a60c?auto=format&fit=crop&w=1920&q=80" },
+      { title: "Corporate Logistics", slug: "corporate-logistics", desc: "Tailored logistics solutions for businesses. Dedicated account management, volume discounts, and seamless API integration.", features: ["Dedicated Account Manager", "Volume Pricing", "API Integration", "Monthly Reporting", "SLA Guarantees", "Custom Packaging"], image: "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=1920&q=80" },
       { title: "Warehousing & Storage", slug: "warehousing", desc: "Secure, climate-controlled warehousing with pick-and-pack fulfilment services for e-commerce and retail.", features: ["Climate Control", "24/7 Security", "Inventory Management", "Pick & Pack", "E-Commerce Fulfilment", "Cross-Docking"], image: "https://images.unsplash.com/photo-1519003722824-194d4455a60c?w=800&q=80" },
     ],
   },
@@ -95,11 +95,11 @@ const siteData = {
     heroTitle: "Our Work",
     heroSubtitle: "A selection of projects that showcase our commitment to excellence.",
     items: [
-      { title: "E-Commerce Fulfilment", slug: "ecommerce-fulfilment", category: "Corporate", location: "Harare, Zimbabwe", desc: "End-to-end logistics for a major online retailer handling 500+ daily orders.", client: "Client Project", services: ["Same-Day Delivery", "Nationwide Freight"], image: "https://images.unsplash.com/photo-1570480548578-3d49ca005e67?w=800&q=80", images: ["https://images.unsplash.com/photo-1570480548578-3d49ca005e67?w=800&q=80"] },
-      { title: "Pharmacy Network", slug: "pharmacy-network", category: "Healthcare", location: "Harare, Zimbabwe", desc: "Temperature-controlled medicine delivery across 30 pharmacy branches.", client: "Client Project", services: ["Same-Day Delivery", "Nationwide Freight"], image: "https://images.unsplash.com/photo-1494412574643-ff11b0a5eb95?w=800&q=80", images: ["https://images.unsplash.com/photo-1494412574643-ff11b0a5eb95?w=800&q=80"] },
+      { title: "E-Commerce Fulfilment", slug: "ecommerce-fulfilment", category: "Corporate", location: "Harare, Zimbabwe", desc: "End-to-end logistics for a major online retailer handling 500+ daily orders.", client: "Client Project", services: ["Same-Day Delivery", "Nationwide Freight"], image: "https://images.unsplash.com/photo-1519003722824-194d4455a60c?auto=format&fit=crop&w=1920&q=80", images: ["https://images.unsplash.com/photo-1519003722824-194d4455a60c?auto=format&fit=crop&w=1920&q=80"] },
+      { title: "Pharmacy Network", slug: "pharmacy-network", category: "Healthcare", location: "Harare, Zimbabwe", desc: "Temperature-controlled medicine delivery across 30 pharmacy branches.", client: "Client Project", services: ["Same-Day Delivery", "Nationwide Freight"], image: "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=1920&q=80", images: ["https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=1920&q=80"] },
       { title: "Agricultural Supply Chain", slug: "agri-supply", category: "Agriculture", location: "Harare, Zimbabwe", desc: "Farm-to-market logistics connecting rural producers with urban buyers.", client: "Client Project", services: ["Same-Day Delivery", "Nationwide Freight"], image: "https://images.unsplash.com/photo-1519003722824-194d4455a60c?w=800&q=80", images: ["https://images.unsplash.com/photo-1519003722824-194d4455a60c?w=800&q=80"] },
-      { title: "Document Express", slug: "document-express", category: "Express", location: "Harare, Zimbabwe", desc: "Same-day legal document courier for Harare's top law firms.", client: "Client Project", services: ["Same-Day Delivery", "Nationwide Freight"], image: "https://images.unsplash.com/photo-1570480548578-3d49ca005e67?w=800&q=80", images: ["https://images.unsplash.com/photo-1570480548578-3d49ca005e67?w=800&q=80"] },
-      { title: "Retail Distribution", slug: "retail-distribution", category: "Retail", location: "Harare, Zimbabwe", desc: "Weekly restocking runs for a 15-store retail chain across Zimbabwe.", client: "Client Project", services: ["Same-Day Delivery", "Nationwide Freight"], image: "https://images.unsplash.com/photo-1494412574643-ff11b0a5eb95?w=800&q=80", images: ["https://images.unsplash.com/photo-1494412574643-ff11b0a5eb95?w=800&q=80"] },
+      { title: "Document Express", slug: "document-express", category: "Express", location: "Harare, Zimbabwe", desc: "Same-day legal document courier for Harare's top law firms.", client: "Client Project", services: ["Same-Day Delivery", "Nationwide Freight"], image: "https://images.unsplash.com/photo-1519003722824-194d4455a60c?auto=format&fit=crop&w=1920&q=80", images: ["https://images.unsplash.com/photo-1519003722824-194d4455a60c?auto=format&fit=crop&w=1920&q=80"] },
+      { title: "Retail Distribution", slug: "retail-distribution", category: "Retail", location: "Harare, Zimbabwe", desc: "Weekly restocking runs for a 15-store retail chain across Zimbabwe.", client: "Client Project", services: ["Same-Day Delivery", "Nationwide Freight"], image: "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=1920&q=80", images: ["https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=1920&q=80"] },
     ],
   },
 
@@ -167,7 +167,7 @@ const siteData = {
     ctaPrimary: "Request a Quote",
     ctaSecondary: "WhatsApp Us",
     whatsappText: "Hi Tinosiya Siyatshiya Courier Services! I would like to request a quote.",
-    backgroundImage: "https://images.unsplash.com/photo-1570480548578-3d49ca005e67?w=1920&q=85",
+    backgroundImage: "https://images.unsplash.com/photo-1519003722824-194d4455a60c?auto=format&fit=crop&w=1920&q=80",
   },
 
   footer: {
